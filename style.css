@@ -24,7 +24,6 @@ body {
 
 .player {
     position: relative;
-    top: 5px;
     max-width: 480px;
     margin: 0 auto;
     background-color: gray;
@@ -46,7 +45,7 @@ body {
     padding: 16px 16px 14px;
     background-color: gray;
     position: fixed;
-    top: 5px;
+    top: 0;
     width: 100%;
     max-width: 480px;
     border-bottom: 1px solid #ece1e1;
@@ -97,6 +96,9 @@ header h2 {
     padding: 18px;
     font-size: 18px;
     cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .control .btn.active {
@@ -113,6 +115,9 @@ header h2 {
     align-items: center;
     justify-content: center;
     background-color: var(--primary-color);
+    user-select: none;
+    -webkit-user-select: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .progress {
