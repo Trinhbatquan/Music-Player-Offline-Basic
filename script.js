@@ -350,7 +350,7 @@ const app = {
     const activeSong = $('.song.active .body h3');
     console.log(activeSong);
     const activeSongName = activeSong.innerText;
-   for (let i = 0; i < 4; i++) {
+   for (let i = 0; i < 2; i++) {
     arrayNoScroll.push(this.songs[i].name);
    }
 
