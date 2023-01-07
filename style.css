@@ -13,6 +13,9 @@ html {
     margin: 0;
     box-sizing: inherit;
     font-family: inherit;
+    user-select: none;
+    -webkit-user-select: none;
+    -webkit-tap-highlight-color: transparent;
 }
 
 body {
@@ -22,10 +25,8 @@ body {
 .player {
     position: relative;
     top: 5px;
-    bottom: 100px;
     max-width: 480px;
     margin: 0 auto;
-    margin-bottom: 200px;
     background-color: gray;
 }
 
