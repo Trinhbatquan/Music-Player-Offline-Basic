@@ -2,18 +2,19 @@
 
 -HTML, CSS, JavaScript.
 
--Các chức năng chính:
-1. Render songs
+-Main Functions:
+
+1.Render songs
 
 2.Scroll top
 
-3.play/pause/seek 
+3.Play/pause/seek 
 
 4.Cd rotate
 
-5.next/prev
+5.Next/prev
 
-6.random
+6.Random
 
 7.Next/repeat when ended
 
