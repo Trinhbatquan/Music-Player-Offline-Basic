@@ -1,8 +1,8 @@
-#Music Player Offline Basic
+***Music Player Offline Basic
 
--HTML, CSS, JavaScript.
+***HTML, CSS, JavaScript.
 
--Main Functions:
+***Main Functions:
 
 1.Render songs
 
@@ -26,6 +26,7 @@
 
 11.Repeat song
 
--Public URL: 
+***Public URL: 
 https://trinhbatquan.github.io/Music-Player-Offline-Basic/
-#THANKS ALL
+
+***THANKS ALL
